@@ -24,13 +24,16 @@ What's the time order of politics, media, citizens? How do they influence each o
 **Wikipedia** and **UNHCR's database**: After dealing with textual descriptions, we are planning extract the numerical data about the refugee crisis for the statistics from Wikipedia tables and UN Refugee Database(UNHCR).
 
 # A list of internal milestones up until project milestone 2
+
 **4th of November** 
-  - Explore the structure of the data, and create Github repo, and write the README.md
+  Explore the structure of the data, and create Github repo, and write the README.md
+  
 **11th of November** 
   1. Get the feedback from TAs and discuss our future plans with them. 
   2. Process and perform the GDELT dataset
   3. Extract the useful information and analyze the sentiment over the time period. 
   4. Start to analyze the Twitter data.
+  
 **18th of November**
   1. Process and perform the Twitter dataset
   2. Analyzing the sentiment over different coutries(try to do two or more languages). 
