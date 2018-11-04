@@ -7,8 +7,11 @@ In our report, we want to explore the emergence of this refugee crisis topic. Us
 
 # Research questions
 What's the approaches of the European Union, goverments to this refugee crisis with the time?
+
 what's the attitude of medias to this refugee crisis with the time?
+
 what's the people's oponion about this refugee crisis with time?
+
 What's the time order of politics, media, citizens? How do they influence each other?
 
 
