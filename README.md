@@ -5,7 +5,7 @@ In last decades because of the rising poverty and conflicts in developing region
 
 In our report, we want to explore the emergence of this refugee crisis topic. Usually, politics, media and people's oponion influence each other theoretically. However, the time series data gives us a chance to study the causility of those three. For example, maybe the refugee crisis topic first arses with people's oppnion, then is followed by politics then media. Maybe it's opposite. 
 
-We conduct a study on extrracting the time evolution (from January 1st 2015 to December 31st 2017) of politic approach, news media coverage and people's oponio by searching the key words or sentiment analysis on medias related to refugee crisis on Global Database of Events, Language, and Tone (GDELT), Twitter database, wikipedia etc.
+To study this, we conduct a analysis on extrracting the time evolution (from January 1st 2015 to December 31st 2017) of politic approach, news media coverage and people's oponio by searching the key words or sentiment analysis related to refugee crisis on Global Database of Events, Language, and Tone (GDELT), Twitter database, wikipedia etc.
 
 
 
