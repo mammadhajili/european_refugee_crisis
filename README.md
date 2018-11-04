@@ -26,7 +26,8 @@ What's the time order of politics, media, citizens? How do they influence each o
 # A list of internal milestones up until project milestone 2
 
 **4th of November** 
-  Explore the structure of the data, and create Github repo, and write the README.md
+  1. Explore the structure of the data
+  2. Create Github repo, and write the README.md
   
 **11th of November** 
   1. Get the feedback from TAs and discuss our future plans with them. 
