@@ -46,7 +46,7 @@ What's the time order of politics, media, citizens? How do they influence each o
   2. The final retouches. 
   3. Explore the methods for data story or just paper.
 
-# Questions for TAa
+# Questions for TAs
 Is it okay to use external datasets like UNHCR?
 
 Can we use unofficial/official polls related to people's opinion towards refugees?
