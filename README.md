@@ -19,7 +19,7 @@ What's the time order of politics, media, citizens? How do they influence each o
 # Dataset
 **Global Database of Events, Language, and Tone (GDELT)** The dataset monitors and analyses news articles around the world from 1979 to present. It is important to mention that the dataset consists of two versions: the GDELT Knowledge Graph and the GDELT Event Database. We will use the simple sentiment algorithm of GDELT which is already precalculated and referred to 'tone' metadata on the dataset. Sentiment scores range from -100 to +100, where 0 is neutrality. However most of the news and events range from -10 to +10.
 
-**Twitter dataset**: We will use 2017 Twitter dataset to analyze the reaction of the people to the refugees in their countries and policies of their governments towards them. We are planning to use sentiment algorithm to detect that tweets are negative, positive or neutral. Since we can detect the language of the tweets, we can discover the different tendencies between the languages, thereby more generally countries.
+**Twitter dataset**: We will use 2017(hope 15 and 16 as well) Twitter dataset to analyze the reaction of the people to the refugees in their countries and policies of their governments towards them. We are planning to use sentiment algorithm to detect that tweets are negative, positive or neutral. Since we can detect the language of the tweets, we can discover the different tendencies between the languages, thereby more generally countries.
 
 **Wikipedia** and **UNHCR's database**: After dealing with textual descriptions, we are planning extract the numerical data about the refugee crisis for the statistics from Wikipedia tables and UN Refugee Database(UNHCR).
 
