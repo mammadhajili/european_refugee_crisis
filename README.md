@@ -52,3 +52,5 @@ Is it okay to use external datasets like UNHCR?
 Can we use unofficial/official polls related to people's opinion towards refugees?
 
 Can you help to get sentiment analysis toolkit for multiple languages(such as Google NLP Toolkit) or we should deal with ourselves?
+
+Is it possible to provide tweets in much broader time span?(at least 2015 and 2016)
