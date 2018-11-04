@@ -33,4 +33,7 @@ What's the time order of politics, media, citizens? How do they influence each o
 Add here a sketch of your planning for the next project milestone.
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+To explore people's oponion, we want look at the poll data.But we are not sure where we could find the poll dataset. Do you have some suggestion about this dataset.
+
+As our definition: poltics arrproach: search keywords on newspaper; media: tone using GDELT. people's oponion: sentiment on twitter, poll dataset. Do you have more suggestion about the way that we used to extract politic, mediaand people's oponion?
+
