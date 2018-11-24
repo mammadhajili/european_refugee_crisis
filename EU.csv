@@ -1,33 +1,35 @@
-ISO, Country Name
-AUT, Austria
-BEL, Belgium
-BGR, Bulgaria
-HRV, Croatia
-CYP, Cyprus
-CZE, Czech Republic
-DNK, Denmark
-EST, Estonia
-FIN, Finland
-FRA, France
-DEU, Germany
-GRC, Greece
-HUN, Hungary
-IRL, Ireland
-ITA, Italy
-LVA, Latvia
-LTU, Lithuania
-LUX, Luxembourg
-MLT, Malta
-NLD, Netherlands
-POL, Poland
-PRT, Portugal
-ROU, Romania
-SVK, Slovakia
-SVN, Slovenia
-ESP, Spain
-SWE, Sweden
-GBR, United Kingdom
-ISL, Iceland
-NOR, Norway
-CHE, Switzerland
-LIE, Liechtenstein
+ISO, Country Name, Domen
+AUT, Austria, at
+BEL, Belgium, be
+BGR, Bulgaria, bg
+HRV, Croatia, hr
+CYP, Cyprus, cy
+CZE, Czech Republic, cz
+DNK, Denmark, dk
+EST, Estonia, ee
+FIN, Finland, fi
+FRA, France, fr
+DEU, Germany, de
+GRC, Greece, gr
+HUN, Hungary, hu
+IRL, Ireland, ie
+ITA, Italy, it
+LVA, Latvia, lv
+LTU, Lithuania, lt
+LUX, Luxembourg, lu
+MLT, Malta, mt
+NLD, Netherlands, nl
+POL, Poland, pl
+PRT, Portugal, pt
+ROU, Romania, ro
+SVK, Slovakia, sk
+SVN, Slovenia, si
+ESP, Spain, es
+SWE, Sweden, se
+GBR, United Kingdom, uk
+ISL, Iceland, is
+NOR, Norway, no
+CHE, Switzerland, ch
+LIE, Liechtenstein, li
+TUR, Turkey, tr
+RUS, Russia, ru
