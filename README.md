@@ -1,20 +1,25 @@
-# European refugee crisis: interplay of power between politics, media and citizens
+# European refugee crisis
 
 # Abstract
 In last decades because of the rising poverty and conflicts in developing regions such as Maghreb(Sub-Saharan Africa), Latin America and Middle East the immigration to Europe had been steadily increasing. In recent years, this tendency was accelerated by the revolutions and civil wars in Arab countries - so called Arab Spring and reached the crisis level (https://en.wikipedia.org/wiki/European_migrant_crisis). 
 
-In our report, we want to explore the emergence of this refugee crisis topic. In theory, politics, media and people's opinion influence each other. However, the time series data gives us a chance to study the causility of those three. For example, maybe the refugee crisis topic first arises with people's opinion, then is followed by politics then media. Maybe it's opposite. 
+In our report, we want to foucs on the topic of the refugee. To do so, first we start with exploring how the immigration in Europe changes by visulizing UNHCR's database. After getting a quantized results of the refugee's immigration, we want to get the oponion from different countries. we will look at the meadia's oponion and the origin of media by the year and the event related to refugee.
 
-To study this, we conduct an analysis on extracting the time evolution (from TBD to December 31st 2017) of politic approach, news media coverage and people's opinions by searching the key words or sentiment analysis related to refugee crisis on Global Database of Events, Language, and Tone (GDELT), Twitter database, Wikipedia etc.
+Further, it's also interesting we could classify the events and get the different categories of events. We could try to visualiza the location that most related to those categories and the oponion related to those categories.
+
+In general, we want to explore the refugee cirsis in European and how the oponion changed with the time and the different events happend.
+
 
 # Research questions
-What's the approaches of the European Union, governments to this refugee crisis with the time?
+How is the refugee's immigration changes in European countries with the time?
 
-What's the attitude of medias to this refugee crisis with the time?
+How is the distribution of origin of media sources related to the refugee events?
 
-What's the people's opinion about this refugee crisis with time?
+How is the the meida's oponion change with time?
 
-What's the time order of politics, media, citizens? How do they influence each other?
+Clustering the events and see how the oponion change with the different categories of the events.
+
+
 
 # Dataset
 **Global Database of Events, Language, and Tone (GDELT)** The dataset monitors and analyses news articles around the world from 1979 to present. It is important to mention that the dataset consists of two versions: the GDELT Knowledge Graph and the GDELT Event Database. We will use the simple sentiment algorithm of GDELT which is already precalculated and referred to 'tone' metadata on the dataset. Sentiment scores range from -100 to +100, where 0 is neutrality. However most of the news and events range from -10 to +10.
