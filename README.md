@@ -13,49 +13,33 @@ In general, we want to explore the refugee cirsis in European and how the oponio
 # Research questions
 How is the refugee's immigration changes in European countries with the time?
 
+Which countries are the most important refugee destinations?
+
+How are refugee movements associated with news?
+
 How is the distribution of origin of media sources related to the refugee events?
 
-How is the the meida's oponion change with time?
+What are the differences between Eastern and Western European countries' approach towards refugees?
 
-Clustering the events and see how the oponion change with the different categories of the events.
+How political state of country is related to its media coverage towards refugees?
 
+How is the the media's oponion change with time?
 
+Which important events(like Istanbul, Paris bombing, other terrorist attacks) are vital in tone of media coverage?
+(https://en.wikipedia.org/wiki/Timeline_of_the_European_migrant_crisis)
 
 # Dataset
 **Global Database of Events, Language, and Tone (GDELT)** The dataset monitors and analyses news articles around the world from 1979 to present. It is important to mention that the dataset consists of two versions: the GDELT Knowledge Graph and the GDELT Event Database. We will use the simple sentiment algorithm of GDELT which is already precalculated and referred to 'tone' metadata on the dataset. Sentiment scores range from -100 to +100, where 0 is neutrality. However most of the news and events range from -10 to +10.
 
-**Twitter dataset**: We will use 2017(hope 15 and 16 as well) Twitter dataset to analyze the reaction of the people to the refugees in their countries and policies of their governments towards them. We are planning to use sentiment algorithm to detect that tweets are negative, positive or neutral. Since we can detect the language of the tweets, we can discover the different tendencies between the languages, thereby more generally countries.
-
 **Wikipedia** and **UNHCR's database**: After dealing with textual descriptions, we are planning extract the numerical data about the refugee crisis for the statistics from Wikipedia tables and UN Refugee Database(UNHCR).
 
-# A list of internal milestones up until project milestone 2
+# Milestone 2 
+For milestone 2, we extract the data - GDELT Events and Mentions from the cluster and use important information from UNHCR database. We explore the data based on time and countries over average tone and number of events and visualize many maps based on those information. They will be important in our future visualizations for milestone 3.
 
-**4th of November** 
-  1. Explore the structure of the data
-  2. Create Github repo, and write the README.md
-  
-**11th of November** 
-  1. Get the feedback from TAs and discuss our future plans with them. 
-  2. Process and perform the GDELT dataset
-  3. Extract the useful information and analyze the sentiment over the time period. 
-  4. Start to analyze the Twitter data.
-  
-**18th of November**
-  1. Process and perform the Twitter dataset
-  2. Analyzing the sentiment over different coutries(try to do two or more languages). 
-  3. Try to connect the results and explore the relationship with media. 
-  4. Collect the useful numeric data from Wikipedia and UNHCR and start the visualization.
-  
-**25th of November** 
-  1. Finish the visualization. 
-  2. The final retouches. 
-  3. Explore the methods for data story or just paper.
+We saved all results in our local machine as parquet file. Also for maps you can look the exporting html(data_exploration.html) of our main notebook.
 
-# Questions for TAs
-Is it okay to use external datasets like UNHCR?
+# For milestone 3
 
-Can we use unofficial/official polls related to people's opinion towards refugees?
-
-Can you help to get sentiment analysis toolkit for multiple languages(such as Google NLP Toolkit) or we should deal with ourselves?
-
-Is it possible to provide tweets in much broader time span?(at least 2015 and 2016)
+- We will cluster the countries and the sites based on the average tone and their approach.
+- We will analyze important events which are effective in tone of the media coverage.
+- We will visualize more user-friendly maps which illustrates all flows of refugee from North Africa or Middle East to Western Europe.
