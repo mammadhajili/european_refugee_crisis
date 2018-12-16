@@ -6,7 +6,7 @@ In this project, we use the dataset Global Database of Events, Language, and Ton
 Here is the [data story](https://infopaul.github.io/#home).
 
 ## jupyter notebook
-Here is the [jupyter notebook](data_exploration.ipynb) and [html version of jupyter notebook](data_exploration.html) (it shows the maps that couldn't bee seen in jupyter notebook). Those contains all the code of the analysis about what we have done and how we get there.
+Here is the [jupyter notebook](data_exploration.ipynb) and [html version of jupyter notebook](data_exploration.html) (it shows the maps that couldn't bee seen in jupyter notebook). Those contain all the code of the analysis about what we have done and how we get there.
 
 ## contribution of group members in this project
 
