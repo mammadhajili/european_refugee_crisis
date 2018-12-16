@@ -10,8 +10,8 @@ Here is the [jupyter notebook](data_exploration.ipynb) and [html version of jupy
 
 ## contribution of group members in this project
 
-**Pavlo Karalupov**: in charge of building the final website for data story, the analysis on mention table, the analysis of UNHCR's database.
+**Pavlo Karalupov**: in charge of building the final website for data story, the analysis on mention table, the analysis on UNHCR's database.
 
 **mammad hajili**: analysis on events tables, combining the final code and writing the report.
 
-**Hongyu Luo**:  analysis on GKG table and events tables, writhing the report.
+**Hongyu Luo**:  analysis on GKG table and events tables, writing the report.
