@@ -23,7 +23,7 @@ What are the differences between Eastern and Western European countries' approac
 
 How political state of country is related to its media coverage towards refugees?
 
-How is the the media's oponion change with time?
+How is the the media's opinion change with time?
 
 # Dataset
 **Global Database of Events, Language, and Tone (GDELT)** The dataset monitors and analyses news articles around the world from 1979 to present. It is important to mention that the dataset consists of two versions: the GDELT Knowledge Graph and the GDELT Event Database. We will use the simple sentiment algorithm of GDELT which is already precalculated and referred to 'tone' metadata on the dataset. Sentiment scores range from -100 to +100, where 0 is neutrality. However most of the news and events range from -10 to +10.
