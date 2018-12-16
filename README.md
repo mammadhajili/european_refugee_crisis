@@ -1,7 +1,5 @@
 # European Refugee Crisis
 
-# European refugee crisis
-
 # Abstract
 In last decades because of the rising poverty and conflicts in developing regions such as Maghreb(Sub-Saharan Africa), Latin America and Middle East the immigration to Europe had been steadily increasing. In recent years, this tendency was accelerated by the revolutions and civil wars in Arab countries - so called Arab Spring and reached the crisis level (https://en.wikipedia.org/wiki/European_migrant_crisis). 
 
