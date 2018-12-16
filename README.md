@@ -5,9 +5,9 @@ In last decades because of the rising poverty and conflicts in developing region
 
 In our report, we want to foucs on the topic of the refugee. To do so, first we start with exploring how the immigration in Europe changes by visulizing UNHCR's database. After getting a quantized results of the refugee's immigration, we want to get the oponion from different countries. we will look at the meadia's oponion and the origin of media by the year and the event related to refugee.
 
-Further, it's also interesting we could classify the events and get the different categories of events. We could try to visualize the location that most related to those categories and the oponion related to those categories.
+Further, it's also interesting we could classify the events and get the different categories of events. We could try to visualize the location that most related to those categories and the oponions related to those categories.
 
-In general, we want to explore the refugee cirsis in European and how the oponion changed with the time and the different events happend.
+In general, we want to explore the refugee cirsis in European and how the oponions changed with the time and the different events happend.
 
 
 # Research questions
